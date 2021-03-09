@@ -1,5 +1,0 @@
-
-== Spring Boot
-
-WebAuthn4J Spring Securityに対するSpring Boot Auto-Configurationは将来のバージョンで提供される予定です。
-
